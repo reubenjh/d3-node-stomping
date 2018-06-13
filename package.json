@@ -1,0 +1,13 @@
+{
+  "name": "d3-node-stomping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/stanley-roache/d3-node-stomping",
+  "license": "MIT",
+  "dependencies": {
+    "d3-node": "^2.0.1",
+    "express": "^4.16.3",
+    "node": "^10.4.1",
+    "nodemon": "^1.17.5"
+  }
+}
