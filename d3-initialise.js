@@ -7,6 +7,6 @@ const creationOptions = {
 // const d3N = new D3Node(creationOptions)
 
 module.exports = {
-  newD3N: () => new D3Node(),
-  newRawD3N: () => new D3Node(creationOptions)
+  newRawD3N: () => new D3Node(),
+  newD3N: () => new D3Node(creationOptions)
 }
